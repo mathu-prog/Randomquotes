@@ -1,0 +1,45 @@
+
+.Background-container{
+    background-color: grey;
+    height:100vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-container{
+    background-color: #c2c3c4;
+    height: 50%;
+    width: 70%;
+    text-align: center;
+    align-items: center;
+    padding: 5px;
+    border-radius: 18px;
+}
+.heading{
+    color:pink;
+    font-family: 'Roboto';
+    font-weight: bolder;
+}
+.quotes{
+    color:#b01c8b;
+    font-family: 'Times New Roman', Times, serif;
+}
+.author{
+    color:#579657;
+    font-family: sans-serif;
+}
+button{
+    padding: 3px;
+    height: 30px;
+    width: 60px;
+    color:#c27478;
+    border:0px solid black;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.button-container{
+    padding: 5px;
+    margin: 20px;
+    text-align: end;
+}
